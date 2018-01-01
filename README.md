@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lumi6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# lumi6
+ Angular and Web API Bluetooth LE uploader for custom hardware using TinySafeBoot
+>>>>>>> bd47c994bda643845e3136d7979467239c2a38ce
