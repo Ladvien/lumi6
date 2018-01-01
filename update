@@ -1,0 +1,2 @@
+ng b --aot --bh https://ladvien.com/projects/lumi6/
+rsync -avzr dist/* root@ladvien.com:/usr/share/nginx/html/projects/lumi6
